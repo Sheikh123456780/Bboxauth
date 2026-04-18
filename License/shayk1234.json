@@ -1,9 +1,9 @@
 {
     "key": "shayk1234",
-    "expiry": "2026-12-31",
+    "expiry": "2026-04-18",
     "status": true,
     "packages": {
-        "com.pubgm": {"status": false},
+        "com.pubgm": {"expiry": "2026-06-30", "status": true},
         "com.freefire": {"expiry": "2026-06-30", "status": true},
         "com.blocked.app": {"status": false}
     }
