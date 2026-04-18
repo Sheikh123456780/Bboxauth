@@ -1,8 +1,10 @@
 {
     "key": "shayk1234",
     "expiry": "2026-12-31",
-    "active": true,
-    "blocked_packages": "",
-    "blocked_devices": "",
-    "note": "Premium License - 1 Year"
+    "status": true,
+    "packages": {
+        "com.pubgm": {"expiry": "2026-12-31", "status": true},
+        "com.freefire": {"expiry": "2026-06-30", "status": true},
+        "com.blocked.app": {"status": false}
+    }
 }
