@@ -3,7 +3,7 @@
     "expiry": "2026-12-31",
     "status": true,
     "packages": {
-        "com.pubgm": {"expiry": "2026-12-31", "status": false},
+        "com.pubgm": {"expiry": "2025-12-31", "status": false},
         "com.freefire": {"expiry": "2026-06-30", "status": true},
         "com.blocked.app": {"status": false}
     }
