@@ -9,7 +9,7 @@
         "1234567890ABCDEF1234567890ABCDEF12345678"
     ],
     "packages": {
-        "com.pubgm": {"expiry": "2026-12-31", "status": true},
+        "com.pubgm": { "status": false},
         "com.freefire": {"expiry": "2026-06-30", "status": true},
         "com.blocked.app": {"status": false}
     }
